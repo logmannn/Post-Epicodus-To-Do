@@ -6,13 +6,19 @@ Spend the first part of today putting together your plan. You should devote at l
 The objective of this exercise is set goals and have a solid plan to keep you motivated beyond the daily structure of Epicodus.
 
 <b>Top Virtual Reality Job Priorities</b>
-<ul>
-<li>Reach out by email to the person who gave a talk at epicodus on the realities space to determine<ul>
+<ol>
+<li>Start learning c# using https://www.learnhowtoprogram.com/c
+<p style="background:grey">(It is a priority that I learn C# if I would like to become a unity developer)</p>
+</li>
+<li>
+Reach out by email to the person who gave a talk at Epicodus on the realities industry. Determine:<ul>
   <li>When the company is moving to Portland</li>
-  <li>That I would love to intern with them</li>
+  <li>Let them know that I would love to intern with them</li>
   <li>Any recommendations he has for me to learn right now</li>
-  <li>consider sending him an email with a unity project that I have created</li>
-</ul></li>
+  <li>Consider sending him an email with a unity project that I have created once it is created</li>
+</ul>
+<p style="background:grey">This is a priority because he could give me some insight in to this space or possibly get me another internship</p>
+</li>
 <li>Because I would love to get a job in the 'realities' space: Create a virtual reality unity project with:
   <ul>
     <li>Player movement using the touchpad</li>
@@ -23,7 +29,7 @@ The objective of this exercise is set goals and have a solid plan to keep you mo
       <li>Custom hand emotes</li>
     </ul>
     <li>Working mirrors</li>
-    <li>Networked positions for multiplayer interactions with Photon Networking</li>
+    <li>Networked positions for multiplayer interactions with Photon Networking watch these video to learn more about photon: https://www.youtube.com/watch?v=AIgwZK151-A&list=PLAkOwsOxpAvpYLAJCd3v295o26Z4WZWc2 </li>
     <li>3D voice chat</li>
     <li>Perhaps a long term goal but I would love to create a game with:</li>
     <li>Simple physics</li>
@@ -44,14 +50,13 @@ The objective of this exercise is set goals and have a solid plan to keep you mo
     </li>
     <li>The ability to load in 3d models with interactivity</li>
   </ul>
+  <p style="background:grey">This is a priority because you can't become a unity developer without decent unity projects.</p>
 </li>
 <li>Rebuild the above with unreal engine</li>
+<li>Attend UnityPDX once a month and find other game/experience and VR/AR developer meetups</li>
 <li>Learn how to use git with unity with a tutorial like https://www.youtube.com/watch?v=OLneiOqEoU8</li>
-<li>Start learning photon by watching this tutorial: https://www.youtube.com/watch?v=AIgwZK151-A&list=PLAkOwsOxpAvpYLAJCd3v295o26Z4WZWc2</li>
-<li>Start learning how to use blender by watching this tutorial: https://www.youtube.com/watch?v=IG1IEpU5VAw</li>
-<li>Learn c# using https://www.learnhowtoprogram.com/c</li>
-<li>Attend UnityPDX once a month</li>
-</ul>
+<li>Start learning how to use blender by watching this tutorial: https://www.youtube.com/watch?v=IG1IEpU5VAw or reinstall Maya</li>
+</ol>
 
 <hr>
 
