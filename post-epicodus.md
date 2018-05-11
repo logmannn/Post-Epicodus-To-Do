@@ -8,46 +8,48 @@ The objective of this exercise is set goals and have a solid plan to keep you mo
 <ul>
   <li>Deploy portfolio project on Heroku with Amazon S3 bucket for storage.</li>
   <li>Send messages to at least 5 connections on LinkedIn every day while searching for jobs.</li>
-  <li>Create a virtual reality unity project with:
-  <ul>
-    <li>Player movement using the touchpad</li>
-    <li>A body model that is mapped to your body with:</li>
+  <li>Because I would love to get a job in the 'realities' space: Create a virtual reality unity project with:
     <ul>
-      <li>Walking animation</li>
-      <li>Grasping animation</li>
-      <li>Custom hand emotes</li>
-    </ul>
-    <li>Working mirrors</li>
-    <li>Networked positions for multiplayer interactions</li>
-    <li>3D voice chat</li>
-    <li>Perhaps a long term goal but I would love to create a game with:</li>
-    <li>Simple physics</li>
-    <li>Ramps and walls with player collisions</li>
-    <li>Ladders</li>
-    <li>Weapons with:
+      <li>Player movement using the touchpad</li>
+      <li>A body model that is mapped to your body with:</li>
       <ul>
-        <li>The ability to pick up and let go</li>
-        <li>Specific drop points</li>
-        <li>Empty and loaded states with bullet count</li>
-        <li>Magazine in the gun state</li>
-        <li>The ability to throw</li>
-        <li>Recoil</li>
-        <li>The ability to "two-hand" for less recoil</li>
-        <li>Various guns with specific recoil and magazine capacity and scopes</li>
+        <li>Walking animation</li>
+        <li>Grasping animation</li>
+        <li>Custom hand emotes</li>
       </ul>
-    </li>
-    <li>The ability to load in 3d models with interactivity</li>
-  </ul>
+      <li>Working mirrors</li>
+      <li>Networked positions for multiplayer interactions with Photon Networking</li>
+      <li>3D voice chat</li>
+      <li>Perhaps a long term goal but I would love to create a game with:</li>
+      <li>Simple physics</li>
+      <li>Ramps and walls with player collisions</li>
+      <li>Ladders</li>
+      <li>Weapons with:
+        <ul>
+          <li>The ability to pick up and let go</li>
+          <li>Specific drop points</li>
+          <li>Empty and loaded states with bullet count</li>
+          <li>Magazine in the gun state</li>
+          <li>The ability to throw</li>
+          <li>Recoil</li>
+          <li>The ability to "two-hand" for less recoil</li>
+          <li>Various guns with specific recoil and magazine capacity and scopes</li>
+          <li>Network the above</li>
+        </ul>
+      </li>
+      <li>The ability to load in 3d models with interactivity</li>
+    </ul>
   </li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Rebuild the above with unreal engine</li>
+  <li>Attend a tech and pong meetup once a month</li>
+  <li>Attend a UnityPDX once a month</li>
+  <li>Apply to at least one job a day (Rails, JavaScript, Ruby, Angular)</li>
+  <li>Create an intro augmented reality app: https://www.youtube.com/watch?v=uXNjNcqW4kY</li>
+  <li>Learn how to use git with unity with a tutorial like https://www.youtube.com/watch?v=OLneiOqEoU8</li>
+  <li>Start learning photon by watching this tutorial: https://www.youtube.com/watch?v=AIgwZK151-A&list=PLAkOwsOxpAvpYLAJCd3v295o26Z4WZWc2</li>
+  <li>Start learning how to use blender by watching this tutorial: https://www.youtube.com/watch?v=IG1IEpU5VAw</li>
+  <li>Learn how to use procs and lambdas in Ruby.</li>
+  <li>Get ruby job search application to be able to search craigslist again and add another job site. Determine what searches and locations I would like to work in and configure the app to be specific to my job searching needs.</li>
   <li></li>
   <li></li>
   <li></li>
