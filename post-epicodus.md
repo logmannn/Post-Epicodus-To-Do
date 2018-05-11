@@ -50,9 +50,21 @@ The objective of this exercise is set goals and have a solid plan to keep you mo
   <li>Start learning how to use blender by watching this tutorial: https://www.youtube.com/watch?v=IG1IEpU5VAw</li>
   <li>Learn how to use procs and lambdas in Ruby.</li>
   <li>Get ruby job search application to be able to search craigslist again and add another job site. Determine what searches and locations I would like to work in and configure the app to be specific to my job searching needs.</li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Complete the r/place app by fixing login bugs, fixing clicks to update a square instead of creating a new square on top, add a history of clicks section that loops through previous boxes added and make it so a specific user has to wait something like 30 seconds before their next valid click.</li>
+  <li>Create a google sheets with information on job hunt history:
+    <ul>
+      <li>Company name</li>
+      <li>Date applied</li>
+      <li>Job title</li>
+      <li>Current stage (applied/not applied, grabbed coffee with?)</li>
+      <li>Company contacts</li>
+    </ul>
+  </li>
+  <li>Consider setting up quickmail.io emailer to auto email places that I have applied for or do this manually
+    <ul>
+      <li>Create two follow up emails that go out after a reasonable time period with personalization to their specific company included as a field</li>
+    </ul>
+  </li>
   <li></li>
   <li></li>
   <li></li>
