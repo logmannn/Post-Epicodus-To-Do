@@ -65,9 +65,9 @@ The objective of this exercise is set goals and have a solid plan to keep you mo
       <li>Create two follow up emails that go out after a reasonable time period with personalization to their specific company included as a field</li>
     </ul>
   </li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>  
+  <li>Follow up with The Dyrt (current job as of the time of writing this) about Kevin (my boss) telling me he would be happy to help set me up with a company. </li>
+  <li>Learn XML by starting with this tutorial: https://www.youtube.com/watch?v=nyk8QO08grM</li>
+  <li>Learn VRTK by watching these videos: https://www.youtube.com/watch?v=tMz04CqAYjw&list=PLTiD-q2AfVNJYGRdR9veojuO0t4v4idmI</li>
+  <li>Learn how to use JIRA by watching this video: https://www.youtube.com/watch?v=NrHpXvDXVrw</li>
+  <li>Learn c# using https://www.learnhowtoprogram.com/c</li>  
 </ul>
